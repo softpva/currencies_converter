@@ -1,0 +1,7 @@
+{
+    "title": "Conversor de Moedas",
+    "loadingData": "Carregando Dados...",
+    "loadingDataError": "Erro ao Carregar Dados:",
+    "dollars": "Dólares (usd)",
+    "reals": "Reais (brl)"
+}

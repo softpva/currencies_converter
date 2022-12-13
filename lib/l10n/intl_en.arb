@@ -1,0 +1,9 @@
+{
+    "title": "Currencies Converter",
+    "loadingData": "Loading Data...",
+    "loadingDataError": "Loading Data Error:",
+    "dollars": "Dollars (usd)",
+    "reals": "Reals (brl)"
+    
+
+}
